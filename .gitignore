@@ -18,6 +18,9 @@ data/
 logs
 *.log
 
+# Agent artifacts
+docs/superpowers/
+
 # OS
 .DS_Store
 Thumbs.db
