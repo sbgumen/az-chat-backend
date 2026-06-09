@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Firebase & credentials
+*firebase*
+*Firebase*
+
+# Dependencies
+node_modules
+
+# Uploads & user data
+uploads/
+data/
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
